@@ -5,4 +5,7 @@ console.log('sample javascript project4')
 console.log('sample javascript project5')
 console.log('sample javascript project6')
 console.log('sample javascript project7')
+console.log('sample javascript project8')
+console.log('sample javascript project9')
+console.log('sample javascript project10')
 
